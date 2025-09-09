@@ -1,3 +1,5 @@
+# encryption-of-qr-code
+
 This project implements a robust encryption approach for QR codes by combining LU Decomposition and Principal Component Analysis (PCA).
 The goal is to enhance the security of QR codes, protecting the critical information they store.
 
